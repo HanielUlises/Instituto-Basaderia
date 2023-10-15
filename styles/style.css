@@ -26,19 +26,6 @@ body {
     border-radius: 10px;
 }
 
-#logo-container {
-    grid-area: header;
-    background: url('images/Logo.png') center center no-repeat;
-    background-size: cover;
-    opacity: 0.5;
-    transition: opacity 0.5s;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-}
-
 .sidebar {
     grid-area: sidebar;
     padding: 20px;
