@@ -1,0 +1,7 @@
+.cabecera{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
